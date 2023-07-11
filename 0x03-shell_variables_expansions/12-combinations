@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} \n | grep -u oo | uniq  
+echo {a..z}{a..z} | grep -u oo | uniq  
